@@ -22,7 +22,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        Currently pursuing B. Tech in Computer Science and Engineering from MCKV Institute of Engineering under Maulana Abul Kalam Azad University of Technology. Presently in 7th semester with an average CGPA of 9.46.
+        Currently pursuing B. Tech in Computer Science and Engineering from MCKV Institute of Engineering under Maulana Abul Kalam Azad University of Technology. Presently in 7th semester with an average CGPA of 9.31.
         </p>
       </div>
     </div>
